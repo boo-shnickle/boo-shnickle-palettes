@@ -1,4 +1,4 @@
-# Boo-Shnickle Palettes
+# boo-shnickle Palettes
 
 A collection of my **Base16** color schemes, ported to various terminals, editors, and tools by the community.
 
