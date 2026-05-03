@@ -8,7 +8,8 @@ A collection of my **Base16** color schemes, ported to various terminals, editor
 - ... more coming
   
 ### Ports Available
-- ... more coming
+- COSMIC Terminal
+- ... more coming 
 
 ### How to Contribute
 
